@@ -19,7 +19,7 @@ Serif is a beautiful small business theme for Jekyll. It contains content types 
 - 100/100 Google Lighthouse speed score
 - Under 30KB without images or 80KB with images and illustrations ⚡
 - Robust example content included
-- Royalty free illustrations included
+- Royalty free illustrations included -test
 
 ## Deployment
 
